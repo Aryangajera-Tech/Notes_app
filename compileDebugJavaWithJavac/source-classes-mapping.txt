@@ -1,0 +1,33 @@
+com/example/notes/notesEn.java
+ com.example.notes.notesEn
+com/example/notes/BuildConfig.java
+ com.example.notes.BuildConfig
+com/example/notes/notesRepository.java
+ com.example.notes.notesRepository
+com/example/notes/notesDao.java
+ com.example.notes.notesDao
+com/example/notes/notesDatabase.java
+ com.example.notes.notesDatabase
+com/example/notes/notesViewModel.java
+ com.example.notes.notesViewModel
+com/example/notes/addNotesActivity.java
+ com.example.notes.addNotesActivity
+ com.example.notes.addNotesActivity$1
+com/example/notes/MainActivity.java
+ com.example.notes.MainActivity
+ com.example.notes.MainActivity$1
+ com.example.notes.MainActivity$10
+ com.example.notes.MainActivity$2
+ com.example.notes.MainActivity$3
+ com.example.notes.MainActivity$4
+ com.example.notes.MainActivity$5
+ com.example.notes.MainActivity$6
+ com.example.notes.MainActivity$7
+ com.example.notes.MainActivity$8
+ com.example.notes.MainActivity$9
+com/example/notes/customAdapter.java
+ com.example.notes.customAdapter
+ com.example.notes.customAdapter$OnItemClickListener
+ com.example.notes.customAdapter$ViewHolder
+ com.example.notes.customAdapter$ViewHolder$1
+ com.example.notes.customAdapter$ViewHolder$2
